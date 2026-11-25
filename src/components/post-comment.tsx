@@ -27,7 +27,7 @@ export function PostComment({ slug }: PostCommentProps) {
     <div data-testid="comments-container" className="comments">
       {mounted && (
         <Giscus
-          repo="sabertazimi/blog"
+          repo="sabertaz/blog"
           repoId="MDEwOlJlcG9zaXRvcnkxMjc0MDY4MTE="
           category="Announcements"
           categoryId="DIC_kwDOB5gS284B_CSm"

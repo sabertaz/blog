@@ -66,7 +66,7 @@ async function generatePostData(filePath: string): Promise<Post> {
     mdxOptions: {
       remarkPlugins: [
         remarkGfm,
-        [remarkGitHub, { repository: 'sabertazimi/blog' }],
+        [remarkGitHub, { repository: 'sabertaz/blog' }],
         remarkGemoji,
         remarkMath,
         remarkDirective,

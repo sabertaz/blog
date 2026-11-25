@@ -1,12 +1,12 @@
 # Next.js Blog Starter
 
 [![Author](https://img.shields.io/badge/author-sabertaz-lightgrey?style=for-the-badge)](https://github.com/sabertaz)
-[![LICENSE](https://img.shields.io/github/license/sabertazimi/blog?style=for-the-badge)](https://github.com/sabertaz/blog/blob/main/LICENSE)
-[![Top Language](https://img.shields.io/github/languages/top/sabertazimi/blog?logo=typescript&style=for-the-badge)](https://github.com/sabertaz/blog/search?l=typescript)
+[![LICENSE](https://img.shields.io/github/license/sabertaz/blog?style=for-the-badge)](https://github.com/sabertaz/blog/blob/main/LICENSE)
+[![Top Language](https://img.shields.io/github/languages/top/sabertaz/blog?logo=typescript&style=for-the-badge)](https://github.com/sabertaz/blog/search?l=typescript)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/sabertazimi/blog/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/sabertaz/blog/actions/workflows/ci.yml)
-[![CodeQL](https://img.shields.io/github/actions/workflow/status/sabertazimi/blog/codeql-analysis.yml?branch=main&label=CodeQL&logo=github&style=for-the-badge)](https://github.com/sabertaz/blog/actions/workflows/codeql-analysis.yml)
-[![Vitest Coverage](https://img.shields.io/codecov/c/github/sabertazimi/blog?logo=codecov&style=for-the-badge)](https://codecov.io/gh/sabertazimi/blog)
+[![CI](https://img.shields.io/github/actions/workflow/status/sabertaz/blog/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/sabertaz/blog/actions/workflows/ci.yml)
+[![CodeQL](https://img.shields.io/github/actions/workflow/status/sabertaz/blog/codeql-analysis.yml?branch=main&label=CodeQL&logo=github&style=for-the-badge)](https://github.com/sabertaz/blog/actions/workflows/codeql-analysis.yml)
+[![Vitest Coverage](https://img.shields.io/codecov/c/github/sabertaz/blog?logo=codecov&style=for-the-badge)](https://codecov.io/gh/sabertaz/blog)
 
 An awesome [blog](https://blog.tazimi.dev) system based on Next.js.
 
@@ -131,7 +131,7 @@ pnpm serve
 
 ## :stars: Deployment
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsabertazimi%2Fblog&project-name=blog&repo-name=blog&demo-title=Sabertaz%20Blog&demo-url=https%3A%2F%2Fblog.tazimi.dev)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsabertaz%2Fblog&project-name=blog&repo-name=blog&demo-title=Sabertaz%20Blog&demo-url=https%3A%2F%2Fblog.tazimi.dev)
 
 Build for production:
 
