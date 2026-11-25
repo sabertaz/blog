@@ -33,7 +33,7 @@ const siteConfig: SiteConfig = {
   contentPath: 'content',
   githubData: {
     profile: {
-      username: 'sabertazimi',
+      username: 'sabertaz',
       name: 'Sabertaz',
       avatar: 'https://avatars.githubusercontent.com/u/12670482?v=4',
       bio: 'Web Developer',
